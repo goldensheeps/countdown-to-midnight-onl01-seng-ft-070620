@@ -5,3 +5,5 @@ def countdown(n)
   end
   return "HAPPY NEW YEAR!"
 end
+
+def countdown
