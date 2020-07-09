@@ -6,6 +6,3 @@ def countdown
     end
   end
   
-  
-  
-end
